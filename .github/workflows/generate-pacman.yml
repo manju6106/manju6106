@@ -1,5 +1,4 @@
-name: generate pacman contribution graph
-
+name: Generate Pac-Man Contribution Graph
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -10,14 +9,16 @@ on:
 
 jobs:
   generate:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
     steps:
-      - uses: abozanona/pacman-contribution-graph@main
+      - name: Generate Pac-Man Graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
