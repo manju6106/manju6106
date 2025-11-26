@@ -50,4 +50,9 @@
 
 ---
 
+### Snake Animation
+<br clear="both">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/manju6106/manju6106/output/snake.svg" alt="Snake animation" />
+</div>
 
