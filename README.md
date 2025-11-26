@@ -1,15 +1,20 @@
 <h1 align="center">Hi, I'm Manjula Rachamreddy</h1>
 <h3 align="center">Focused on becoming a full-stack engineer through practical, end-to-end development</h3>
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+### Visitor Badge
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=manju6106.manju6106" />
+</div>
+### Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/manju6106/manju6106/output/pacman-contribution-graph.svg" height="200" alt="Pac-Man Contribution Graph"/>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manju6106&label=Profile%20views&color=0e75b6&style=flat" alt="manju6106"/>
 </p>
-
----
-
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
 
 ---
 
@@ -17,12 +22,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/rachamreddy-manjula/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25"/>
   </a>
 </div>
 
@@ -47,12 +46,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
 </p>
 
-
 ---
 
-### Snake Animation
-<br clear="both">
-<div align="center">
-  <img src="https://raw.githubusercontent.com/manju6106/manju6106/output/snake.svg" alt="Snake animation" />
-</div>
 
