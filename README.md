@@ -4,10 +4,12 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
+
 ### Visitor Badge
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=manju6106.manju6106" />
 </div>
+
 ### Contribution Graph
 <p align="center">
   <img src="https://raw.githubusercontent.com/manju6106/manju6106/output/pacman-contribution-graph.svg" height="200" alt="Pac-Man Contribution Graph"/>
