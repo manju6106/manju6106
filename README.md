@@ -37,15 +37,6 @@
 
 ---
 
-### Contribution Graph
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manju6106&show_icons=false&count_private=true&theme=radical" alt="Manjula's GitHub stats"/>
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=manju6106&theme=react-dark" alt="Contribution Graph" height="200"/>
-</p>
-
 
 ---
 
